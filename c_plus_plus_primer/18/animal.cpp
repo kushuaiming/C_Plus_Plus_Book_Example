@@ -27,7 +27,7 @@
  * 	Fax: (201) 236-3290
 */ 
 
-#include "Animal.h"
+#include "animal.h"
 #include <iostream>
 using std::ostream; using std::cout; using std::endl;
 
